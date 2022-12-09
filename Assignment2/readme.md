@@ -6,7 +6,7 @@
 “He would never work directly on a painful area” 
 <p>I found this extremely interesting because of how the mind perceives and monitors itself. The area in which his pupil noticed pain frequently generated more pain when physically controlled. The body seems to be in touch with itself more than I previously thought. These practices could be transferred into physical therapy to produce results for those struggling with movement issues.</p>
 
-<li>“No part of the body can be moved without the others being affected”</li>
+“No part of the body can be moved without the others being affected”
 <p>This idea interested me greatly. I tried to move my finger and sense movements in the other parts of my body even if it is extremely unnoticeable. I could detect movement throughout my forearms and into my shoulder. This was interesting but not outside of my knowledge. It was only when I noticed movement in my chest that I became self aware.</p>
 
 <h3>My experience:</h3>
