@@ -1,5 +1,5 @@
 <h3>The real reason for Brains:</h3>
-1.	Based on DW's talk; discuss how you think learning about movement might help to inform your approach to designing systems?
+<h5>1.	Based on DW's talk; discuss how you think learning about movement might help to inform your approach to designing systems?</h5>
 	<p>Movement has many different variables and unique characteristics. In order to develop proper data from movement the organism which is moving must properly be observed. The way an organism moves can determine a lot about the current state in which that being is currently in. This can help design better systems because gaining proper data can be achieved in a far better way. Using this knowledge movement can properly be obsoleted and data can be collected in a superior way.</p>
-2.	Since this talk was aired in 2011, beyond Baysian inference, what other techniques have been applied to these issues?
+<h5>2.	Since this talk was aired in 2011, beyond Baysian inference, what other techniques have been applied to these issues?</h5>
 	<p>Many other techniques have been discovered and applied to the field of movement. An example of a more recent form would be motion tracking. Now that accurate data can easily be collected predictions can be made on the movement of an individual through trends in their recent behavior.</p>
