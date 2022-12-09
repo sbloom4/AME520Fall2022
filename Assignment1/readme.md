@@ -23,6 +23,3 @@ The four somatic values are: Self as a set of states, Attention as an operator, 
 3.	How can somatic studies be applied to your current field of study/research?
 Somatic Studies can be applied by tracking and recording movement habits that can be further used within digital culture. This data can be used to create more accurate results when tracking movement. Using this data many different outcomes can be achieved, such as better data when motion tracking.
 
-
-
-![image](https://user-images.githubusercontent.com/78001823/206616944-d005e4b6-47bd-41d0-9adc-6ceee69be72f.png)
