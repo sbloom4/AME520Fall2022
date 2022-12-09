@@ -1,12 +1,12 @@
 <h3>Three points of interest:</h3>
 
-“Even thinking of movement triggers movement” 
+<h5>“Even thinking of movement triggers movement”</h5>
 <p>This point was extremely interesting to me because of the unusual thought it provokes. I tried to do this myself and I did not notice any movement in my hand beside the usual shaking that occurs. Is thinking that my hand shakes caused because of my mind or does it occur because of some outside variable.</p> 
 
-“He would never work directly on a painful area” 
+<h5>“He would never work directly on a painful area”</h5>
 <p>I found this extremely interesting because of how the mind perceives and monitors itself. The area in which his pupil noticed pain frequently generated more pain when physically controlled. The body seems to be in touch with itself more than I previously thought. These practices could be transferred into physical therapy to produce results for those struggling with movement issues.</p>
 
-“No part of the body can be moved without the others being affected”
+<h5>“No part of the body can be moved without the others being affected”</h5>
 <p>This idea interested me greatly. I tried to move my finger and sense movements in the other parts of my body even if it is extremely unnoticeable. I could detect movement throughout my forearms and into my shoulder. This was interesting but not outside of my knowledge. It was only when I noticed movement in my chest that I became self aware.</p>
 
 <h3>My experience:</h3>
